@@ -1,2 +1,6 @@
-# baekjoon
-백준 문제 풀이 코드 올리는 Repository
+#include <stdio.h>
+
+int main() {
+	printf("Hello World!");
+	return 0;
+}
